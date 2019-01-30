@@ -31,25 +31,22 @@ console.log(`stringnumber3 = ${string3} + ${number3}`)
 
 const array1 = [A, B]
 const array2 = ['ai', 'bi']
-const array3 = [{name: 'VA',
-harga: 80000}
-{name: 'BL'
-harga; 1000000
- }
-{name: 'ARI'
-harga: 500}
-{name: 'SD'
-harga: 5000}]
+const array3 = [
+  { name: 'VA', harga: 80000 },
+  { name: 'BL', harga: 1000000 },
+  { name: 'ARI', harga: 500 },
+  { name: 'SD', harga: 5000 }
+]
 
-array1.push(C,D)
+array1.push(C, D)
 
-array2.push('ci','di')
+array2.push('ci', 'di')
 
 array3.push({
-name: 'xxx'
-harga: 40000}
-)
+  name: 'xxx',
+  harga: 40000
+})
 
-console.log (array1)
-console.log (array2)
-console.log (array3)
+console.log(array1)
+console.log(array2)
+console.log(array3)

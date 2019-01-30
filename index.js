@@ -13,7 +13,7 @@ const result3 = number1 + number3
 
 console.log(`result1 = ${number1} + ${number2} = ${result1}`)
 console.log(`result2 = ${number2} + ${number3} = ${result2}`)
-console.log(`result3 = ${number2} + ${number3} = ${result2}`)
+console.log(`result3 = ${number1} + ${number3} = ${result3}`)
 
 const string1 = 'F1ZR'
 const string2 = 'SATRIA R'

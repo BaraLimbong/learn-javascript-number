@@ -25,6 +25,6 @@ const stringnumber1 = string1 + number1
 const stringnumber2 = string2 + number2
 const stringnumber3 = string3 + number3
 
-console.log(`stringnumber1 ${string1} + ${number1}`)
-console.log(`stringnumber2 ${string2} + ${number2}`)
-console.log(`stringnumber3 ${string3} + ${number3}`)
+console.log(`stringnumber1 = ${string1} + ${number1}`)
+console.log(`stringnumber2 = ${string2} + ${number2}`)
+console.log(`stringnumber3 = ${string3} + ${number3}`)
